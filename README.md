@@ -1,7 +1,6 @@
 [![An image of @kradarsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kradarsh)](https://holopin.io/@kradarsh)
 
-<h1 align="center"> Hii, Adarsh this side..👋</h1>  
-<h3 align="center"> Aspiring Full-Stack Developer | Data Science Enthusiast </h3>
+<h1 align="center"> Hii, Adarsh this side..👋</h1> 
 
 ![](https://komarev.com/ghpvc/?username=Kr-Adarsh&color=011724&abbreviated=true&label=Profile+Vists)
 
